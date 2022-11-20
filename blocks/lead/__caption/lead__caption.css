@@ -7,13 +7,13 @@
     text-transform: uppercase;
 }
 
-@media screen and (min-width:757px) and (max-width:1080px) {
+@media screen and (min-width:769px) and (max-width:1080px) {
     .lead__caption {
         width: calc(100% - (48px*2));
     }
 }
 
-@media screen and (max-width:756px) {
+@media screen and (max-width:768px) {
     .lead__caption {
         padding-left: 24px;
     }

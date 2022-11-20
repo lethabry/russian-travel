@@ -1,17 +1,21 @@
 .cover {
-    margin: 92px auto 0;
+    margin: 104px auto 0;
     max-width: 1184px;
-    /* padding-top: 19%; */
     position: relative;
+    background-image: url('../../images/__background.jpg');
+    background-size: cover;
+    background-position: center center;    
 }
 
-.cover:hover .cover__background {
-    opacity: 0.3;
-}
-
-@media screen and (max-width:756px) {
+@media screen and (max-width:1024px) {
     .cover{
-        margin-top: 90px;
+        margin-top: 81px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .cover{
+        margin-top: 92px;
     }
 }
 

@@ -2,17 +2,17 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 28px 48px 0;
+    margin: 24px 48px 0;
 }
 
-@media screen and (max-width:756px) {
+@media screen and (max-width:768px) {
     .header {
-        margin: 28px 24px 0;
+        margin: 26px 24px 0;
     }
 }
 
 @media screen and (max-width:385px) {
     .header {
-        margin: 16px 16px 0;
+        margin: 11px 16px 0;
     }
 }

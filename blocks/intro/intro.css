@@ -5,14 +5,14 @@
     margin: 0 auto;
 }
 
-@media screen and (min-width:757px) and (max-width:1080px) {
+@media screen and (min-width:769px) and (max-width:1080px) {
     .intro {
         width: calc(100% - (48px *2));
         margin: 0 48px;
     }
 }
 
-@media screen and (max-width:756px) {
+@media screen and (max-width:768px) {
     .intro {
         margin: 0 24px;
     }

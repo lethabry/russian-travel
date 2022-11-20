@@ -15,6 +15,12 @@
     }
 }
 
+@media screen and (max-width:768px) {
+    .place__title{
+        max-width: 340px;
+    }
+}
+
 @media screen and (max-width: 368px) {
     .place__title {
         padding: 0 24px;
