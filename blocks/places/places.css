@@ -9,14 +9,14 @@
 @media screen and (max-width: 1080px) {
     .places {
         padding: 0 48px;
-        gap: 68px;
+        gap: 83px;
     }
 }
 
 @media screen and (max-width:768px) {
     .places {
         margin-top: 95px;
-        gap: 58px;
+        gap: 61px;
         padding: 0 24px;
     }
 }
@@ -24,7 +24,7 @@
 @media screen and (max-width: 368px) {
     .places {
         padding: 0;
-        gap: 61px;
+        gap: 50px;
         margin-top: 64px;
     }
 }

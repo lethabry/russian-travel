@@ -5,4 +5,6 @@
     line-height: 1;
     letter-spacing: 2px;
     color: #AAAAAA;
+    /* Добавлено свойство заглавных букв */
+    text-transform: uppercase;
 }

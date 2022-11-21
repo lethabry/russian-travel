@@ -1,5 +1,5 @@
 .cover {
-    margin: 104px auto 0;
+    margin: 99px auto 0;
     max-width: 1184px;
     position: relative;
     background-image: url('../../images/__background.jpg');
@@ -9,18 +9,18 @@
 
 @media screen and (max-width:1024px) {
     .cover{
-        margin-top: 81px;
+        margin-top: 88px;
     }
 }
 
 @media screen and (max-width:768px) {
     .cover{
-        margin-top: 92px;
+        margin-top: 90px;
     }
 }
 
 @media screen and (max-width:320px) {
     .cover{
-        margin-top: 66px;
+        margin-top: 84px;
     }
 }

@@ -13,3 +13,6 @@
 
 # Используемые технологии
  Гриды, флексы, относильные величины
+
+# Ссылка на GitHub Pages
+https://lethabry.github.io/russian-travel/

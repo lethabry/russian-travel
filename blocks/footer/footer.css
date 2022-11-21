@@ -1,23 +1,17 @@
 .footer {
-    margin: 76px 48px 0;
+    margin: 92px 48px 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-@media screen and (max-width:1024px) {
-    .footer{
-        margin-top: 77px; 
-    }
-}
-
 @media screen and (max-width:768px) {
     .footer {
-        margin: 77px 24px 0;
+        margin: 92px 24px 0;
     }
 }
 
-@media screen and (max-width:710px) {
+@media screen and (max-width:650px) {
     .footer {
         flex-direction: column;
         align-items: flex-start;
@@ -28,6 +22,6 @@
 @media screen and (max-width: 320px) {
     .footer {
         margin: 64px 16px 0;
-        gap: 34px;
+        gap: 50px;
     }
 }

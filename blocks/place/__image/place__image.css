@@ -2,3 +2,14 @@
     max-width: 100%;
 }
 
+@media screen and (max-width: 1024px) and (min-width:716px) {
+    .place__image {  
+        max-width: calc(100% - 14px);
+    } 
+}
+
+@media screen and (max-width:715px) {
+    .place__image {  
+        width: 100%;
+    }
+}
