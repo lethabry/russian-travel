@@ -1,28 +1,28 @@
-.places {
+.places-list {
     display: grid;
-    gap: 80px;
+    gap: 82px;
     margin: 92px auto 0;
     padding: 0;
     max-width: 984px;
 }
 
 @media screen and (max-width: 1080px) {
-    .places {
+    .places-list {
         padding: 0 48px;
-        gap: 83px;
+        gap: 82px;
     }
 }
 
-@media screen and (max-width:768px) {
-    .places {
+@media screen and (max-width: 768px) {
+    .places-list {
         margin-top: 95px;
-        gap: 61px;
+        gap: 70px;
         padding: 0 24px;
     }
 }
 
 @media screen and (max-width: 368px) {
-    .places {
+    .places-list {
         padding: 0;
         gap: 50px;
         margin-top: 64px;

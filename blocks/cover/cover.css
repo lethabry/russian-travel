@@ -1,26 +1,26 @@
 .cover {
-    margin: 99px auto 0;
+    margin: 93px auto 0;
     max-width: 1184px;
     position: relative;
     background-image: url('../../images/__background.jpg');
     background-size: cover;
-    background-position: center center;    
+    background-position: center center;
 }
 
-@media screen and (max-width:1024px) {
-    .cover{
-        margin-top: 88px;
+@media screen and (max-width: 1024px) {
+    .cover {
+        margin-top: 91px;
     }
 }
 
-@media screen and (max-width:768px) {
-    .cover{
+@media screen and (max-width: 768px) {
+    .cover {
         margin-top: 90px;
     }
 }
 
-@media screen and (max-width:320px) {
-    .cover{
-        margin-top: 84px;
+@media screen and (max-width: 320px) {
+    .cover {
+        margin-top: 70px;
     }
 }

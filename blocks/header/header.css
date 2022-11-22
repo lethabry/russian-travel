@@ -5,13 +5,13 @@
     margin: 24px 48px 0;
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width: 768px) {
     .header {
         margin: 26px 24px 0;
     }
 }
 
-@media screen and (max-width:385px) {
+@media screen and (max-width: 385px) {
     .header {
         margin: 11px 16px 0;
     }

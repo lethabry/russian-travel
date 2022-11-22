@@ -25,8 +25,8 @@
 /* Импорт блока photo-grid */
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
-/* Импорт блока places */
-@import url(../blocks/places/places.css);
+/* Импорт блока places-list */
+@import url(../blocks/places-list/places-list.css);
 /* Import place */
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__title/place__title.css);
@@ -45,13 +45,3 @@
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
-
-
-
-
-
-
-
-
-
-
