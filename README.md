@@ -10,5 +10,8 @@
 ### 3. Используемые технологии
  Grid, flexbox, относительные величины, адаптивная верстка
 
+ ### 4. Статус
+Проект завершен
+
 ### Ссылка на GitHub Pages
 https://lethabry.github.io/russian-travel/
